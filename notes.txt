@@ -1,7 +1,0 @@
-body-parser -> parsing data coming in
-cors -> cross origin resource sharing
-dotenv -> env variables 
-helmet -> protecting apis
-morgan -> logging api calls
-mongoose -> mongodb calls
-nodemon -> liveserver reload
